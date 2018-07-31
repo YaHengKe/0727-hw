@@ -1,0 +1,7 @@
+C:\Users\III\Desktop\0727-hw\0727-hw5\0727-hw5\obj\Debug\0727-hw5.csprojAssemblyReference.cache
+C:\Users\III\Desktop\0727-hw\0727-hw5\0727-hw5\obj\Debug\0727-hw5.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\0727-hw\0727-hw5\0727-hw5\bin\Debug\0727-hw5.exe.config
+C:\Users\III\Desktop\0727-hw\0727-hw5\0727-hw5\bin\Debug\0727-hw5.exe
+C:\Users\III\Desktop\0727-hw\0727-hw5\0727-hw5\bin\Debug\0727-hw5.pdb
+C:\Users\III\Desktop\0727-hw\0727-hw5\0727-hw5\obj\Debug\0727-hw5.exe
+C:\Users\III\Desktop\0727-hw\0727-hw5\0727-hw5\obj\Debug\0727-hw5.pdb

@@ -1,0 +1,7 @@
+C:\Users\III\Desktop\0727-hw\0727-hw3\0727-hw3\bin\Debug\0727-hw3.exe.config
+C:\Users\III\Desktop\0727-hw\0727-hw3\0727-hw3\bin\Debug\0727-hw3.exe
+C:\Users\III\Desktop\0727-hw\0727-hw3\0727-hw3\bin\Debug\0727-hw3.pdb
+C:\Users\III\Desktop\0727-hw\0727-hw3\0727-hw3\obj\Debug\0727-hw3.csprojAssemblyReference.cache
+C:\Users\III\Desktop\0727-hw\0727-hw3\0727-hw3\obj\Debug\0727-hw3.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\0727-hw\0727-hw3\0727-hw3\obj\Debug\0727-hw3.exe
+C:\Users\III\Desktop\0727-hw\0727-hw3\0727-hw3\obj\Debug\0727-hw3.pdb
